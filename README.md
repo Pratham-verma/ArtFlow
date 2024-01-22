@@ -66,4 +66,4 @@ Design the MySQL database with tables such as Artworks, Exhibitions, Users, Tran
 
 Feel free to explore and contribute to the project!
 
-## Happy gallery managing!
+## Thankyou!
